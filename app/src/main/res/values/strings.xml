@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant Hub</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <string name="browse_recipes">Browse Recipes</string>
+</resources>
